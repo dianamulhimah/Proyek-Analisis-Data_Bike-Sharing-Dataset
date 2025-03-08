@@ -1,4 +1,4 @@
-# Proyek-Analisis-Data_Bike-Sharing-Dataset
+# Bike Sharing Dashboard
 ## Setup Environment - Anaconda
 ```
 conda create --name main-ds python=3.9
